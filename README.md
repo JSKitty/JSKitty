@@ -9,7 +9,7 @@
 <h1 align="center">Portfolio</h1>
 
 <p align="center">
-  <h3 align="center">⛓ Blockchain & Cryptography ⛓</h3>
+  <h3 align="center">⛓ Blockchain & Cryptocurrency ⛓</h3>
   <p align="center">
     <a href="https://github.com/JSKitty/node-bitcoin-miner">Node Bitcoin Miner</a> (JS) - Functional, hackable & educational multi-threaded Bitcoin miner.
     <br>
@@ -32,9 +32,9 @@
 <p align="center">
   <h3 align="center">🎮 Games & Game Engines 🎮</h3>
   <p align="center">
-    <a href="https://github.com/JSKitty/rusty-sandbox">Rusty Sandbox</a> (Rust) - A lightweight & customisable 2D Sandbox Engine.
+    <a href="https://github.com/JSKitty/rusty-sandbox">Rusty Sandbox</a> (Rust) - A lightweight & customisable 2D Sandbox Engine. - <a href="https://stakecubecoin.net/wasm-sandbox/">Play</a>
     <br>
-    <a href="https://github.com/JSKitty/voxel-engine">Voxel Engine</a> (JS) - A modular 3D Voxel Engine with fluids and world-gen.
+    <a href="https://github.com/JSKitty/voxel-engine">Voxel Engine</a> (JS) - A modular 3D Voxel Engine with fluids and world-gen. - <a href="https://jskitty.github.io/voxel-engine/">Play</a>
   </p>
 </p>
 
