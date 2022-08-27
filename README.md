@@ -10,7 +10,7 @@
 <h1 align="center">Portfolio</h1>
 
 <p align="center">
-  <h3 align="center">⛓ Blockchain & Cryptography</h3>
+  <h3 align="center">⛓ Blockchain & Cryptography ⛓</h3>
   <p align="center">
     <a href="https://github.com/JSKitty/node-bitcoin-miner">Node Bitcoin Miner</a> (JS) - Functional, hackable & educational multi-threaded Bitcoin miner.
     <br>
@@ -25,5 +25,29 @@
     <a href="https://github.com/ZENZO-Ecosystem/zenzo-forge">ZENZO Forge</a> (JS) - A high-perf parallelised L2 designed for on-chain games.
     <br>
     <a href="https://github.com/Concord-Ecosystem/Concord-Core">Concord</a> (JS) - A blockchain implementation inspired by <a href="https://github.com/conradoqg/naivecoin">Naivecoin</a>.
+  </p>
+</p>
+
+---
+
+<p align="center">
+  <h3 align="center">🎮 Games & Game Engines 🎮</h3>
+  <p align="center">
+    <a href="https://github.com/JSKitty/rusty-sandbox">Rusty Sandbox</a> (Rust) - A lightweight & customisable 2D Sandbox Engine.
+    <br>
+    <a href="https://github.com/JSKitty/voxel-engine">Voxel Engine</a> (JS) - A modular 3D Voxel Engine with fluids and world-gen.
+  </p>
+</p>
+
+---
+
+<p align="center">
+  <h3 align="center">✨ Miscellaneous ✨</h3>
+  <p align="center">
+    <a href="https://github.com/JSKitty/wallpape.rs">Wallpape.rs</a> (Rust) - A simple, tiny GUI Wallpaper manager for Linux DEs. 
+    <br>
+    <a href="https://github.com/JSKitty/colla.rs">Colla.rs</a> (Rust) - An interactive, websocket-powered electric Collar remote.
+    <br>
+    <a href="https://github.com/JSKitty/colla.rs-server">Colla.rs server</a> (Rust) - The axum-powered websocket server for the Colla.rs client.
   </p>
 </p>
