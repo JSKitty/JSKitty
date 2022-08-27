@@ -47,6 +47,6 @@
     <br>
     <a href="https://github.com/JSKitty/colla.rs">Colla.rs</a> (Rust) - An interactive, websocket-powered electric Collar remote.
     <br>
-    <a href="https://github.com/JSKitty/colla.rs-server">Colla.rs server</a> (Rust) - The axum-powered websocket server for the Colla.rs client.
+    <a href="https://github.com/JSKitty/colla.rs-server">Colla.rs server</a> (Rust) - In Collab. with my <a href="https://github.com/11Tuvork28">11Tuvork28💕</a> - The axum ws-server for the Colla.rs client.
   </p>
 </p>
