@@ -11,6 +11,8 @@
 <p align="center">
   <h3 align="center">⛓ Blockchain & Cryptocurrency ⛓</h3>
   <p align="center">
+    <a href="https://github.com/JSKitty/checkpoint-rs">Checkpoint-rs</a> (RS) - A simple Bitcoin-based blockchain checkpointing program.
+    <br>
     <a href="https://github.com/JSKitty/node-bitcoin-miner">Node Bitcoin Miner</a> (JS) - Functional, hackable & educational multi-threaded Bitcoin miner.
     <br>
     <a href="https://github.com/PIVX-Labs/MyPIVXWallet">My PIVX Wallet</a> (JS) - Safe, serverless & non-custodial wallet for PIVX. - <a href="https://mypivxwallet.org/">Web Client</a>
