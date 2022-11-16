@@ -48,11 +48,4 @@
   <h3 align="center">✨ Miscellaneous ✨</h3>
   <p align="center">
     <a href="https://github.com/JSKitty/wallpape.rs">Wallpape.rs</a> (Rust) - A simple, tiny GUI Wallpaper manager for Linux DEs. 
-    <br>
-    <a href="https://github.com/JSKitty/Collarbot">Collarbot</a> (JS) - A highly configurable discord-based Colla-rs client.
-    <br>
-    <a href="https://github.com/JSKitty/colla.rs">Colla.rs</a> (Rust) - An interactive, websocket-powered electric Collar remote.
-    <br>
-    <a href="https://github.com/JSKitty/colla.rs-server">Colla.rs server</a> (Rust) - In Collab. with my <a href="https://github.com/11Tuvork28">11Tuvork28💕</a> - WS-server for the Colla.rs client.
-  </p>
 </p>
