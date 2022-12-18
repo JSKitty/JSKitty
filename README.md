@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/820799926882533406/1012751217014866081/JSKitty.svg"/>
   <br>
-  <i>Builder of blockchain technology, critical cryptographic applications, games, engines and other fun tech bits.</i>
+  <i>A British developer dedicated to full-time FOSS work in critical cryptographic applications, privacy tech, games, engines and other fun tech bits.</i>
   <br><br>
   <i><b><a href="https://stakecubecoin.net/PGP.txt">PGP Signature</a></b></i>
 </p>
@@ -13,13 +13,13 @@
 <p align="center">
   <h3 align="center">⛓ Blockchain & Cryptocurrency ⛓</h3>
   <p align="center">
-    <a href="https://github.com/JSKitty/checkpoint-rs">Checkpoint-rs</a> (RS) - A simple Bitcoin-based blockchain checkpointing program.
+    <a href="https://github.com/PIVX-Labs/MyPIVXWallet">My PIVX Wallet</a> (JS) - Secure, private & non-custodial wallet for PIVX. - <a href="https://mypivxwallet.org/">Web Client</a>
     <br>
     <a href="https://github.com/JSKitty/node-bitcoin-miner">Node Bitcoin Miner</a> (JS) - Functional, hackable & educational multi-threaded Bitcoin miner.
     <br>
-    <a href="https://github.com/PIVX-Labs/MyPIVXWallet">My PIVX Wallet</a> (JS) - Safe, serverless & non-custodial wallet for PIVX. - <a href="https://mypivxwallet.org/">Web Client</a>
-    <br>
     <a href="https://github.com/JSKitty/bitcoin-rpc">Bitcoin RPC</a> (JS) - A reliable, dependency-free Bitcoin RPC interface. - <a href="https://www.npmjs.com/package/@jskitty/bitcoin-rpc">NPM</a>
+    <br>
+    <a href="https://github.com/JSKitty/checkpoint-rs">Checkpoint-rs</a> (RS) - A simple Bitcoin-based blockchain checkpointing program.
     <br>
     <a href="https://github.com/JSKitty/scc-js">SCC.js</a> (JS) - Low-level lib for SCC blockchain integration. - <a href="https://www.npmjs.com/package/scc-js">NPM</a>
     <br>
