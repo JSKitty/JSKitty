@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/820799926882533406/1012751217014866081/JSKitty.svg"/>
   <br>
+  <b>🌿 INFJ-T</b>
+  <br>
+  <br>
   <i>A British developer dedicated to full-time FOSS work in critical cryptographic applications, privacy tech, games, engines and other fun tech bits.</i>
   <br><br>
   <i><b><a href="https://stakecubecoin.net/PGP.txt">PGP Signature</a></b></i>
