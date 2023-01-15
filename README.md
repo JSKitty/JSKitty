@@ -24,10 +24,6 @@
     <br>
     <a href="https://github.com/JSKitty/checkpoint-rs">Checkpoint-rs</a> (RS) - A simple Bitcoin-based blockchain checkpointing program.
     <br>
-    <a href="https://github.com/JSKitty/scc-js">SCC.js</a> (JS) - Low-level lib for SCC blockchain integration. - <a href="https://www.npmjs.com/package/scc-js">NPM</a>
-    <br>
-    <a href="https://github.com/stakecube/StakeCubeProtocol">StakeCube Protocol</a> (JS) - An Ether-like BTC L2 designed for extreme transactional scaling.
-    <br>
     <a href="https://github.com/ZENZO-Ecosystem/zenzo-forge">ZENZO Forge</a> (JS) - A high-perf parallelised L2 designed for on-chain games.
     <br>
     <a href="https://github.com/Concord-Ecosystem/Concord-Core">Concord</a> (JS) - A blockchain implementation inspired by <a href="https://github.com/conradoqg/naivecoin">Naivecoin</a>.
