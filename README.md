@@ -6,7 +6,7 @@
   <br>
   <i>A British developer dedicated to full-time FOSS work in critical cryptographic applications, privacy tech, games, engines and other fun tech bits.</i>
   <br><br>
-  <i><b><a href="https://stakecubecoin.net/PGP.txt">PGP Signature</a></b></i>
+  <i><b><a href="https://mypivxwallet.org/JSKitty.txt">PGP Block</a></b></i>
 </p>
 
 ---
