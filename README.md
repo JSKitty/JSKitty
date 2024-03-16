@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/820799926882533406/1071865026555691078/JSKitty-3.svg"/>
+  <img src="https://github.com/JSKitty/JSKitty/assets/42538664/45b32304-1b02-4f4f-8df0-c6dd2f858866"/>
   <br>
   <b>🌿 INFJ-T</b>
   <br>
