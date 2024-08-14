@@ -16,17 +16,22 @@
 <p align="center">
   <h3 align="center">⛓ Blockchain & Cryptocurrency ⛓</h3>
   <p align="center">
+    <a href="https://github.com/PIVX-Labs/PIVX-Promos">PIVX Promos</a> (JS) - A JS implementation of decentralised on-chain gift codes.
+    <br>
     <a href="https://github.com/PIVX-Labs/MyPIVXWallet">My PIVX Wallet</a> (JS) - Secure, private & non-custodial wallet for PIVX. - <a href="https://mypivxwallet.org/">Web Client</a>
+    <br>
+    <a href="https://github.com/PIVX-Labs/VanityGen">PIVX VanityGen</a> (Rust) - A Rust CLI for <a href="https://github.com/PIVX-Labs/PIVX-Promos">PIVX Promos</a> & <a href="https://en.bitcoin.it/wiki/Vanitygen">VanityGen</a> with RPC automation tools.
+    <br>
+    <a href="https://github.com/PIVX-Labs/Oracle">Oracle</a> (JS) - A beautiful, simple PIVX price tracking web app. - <a href="https://pivxla.bz/oracle">Web Client</a>
     <br>
     <a href="https://github.com/JSKitty/node-bitcoin-miner">Node Bitcoin Miner</a> (JS) - Functional, hackable & educational multi-threaded Bitcoin miner.
     <br>
     <a href="https://github.com/JSKitty/bitcoin-rpc">Bitcoin RPC</a> (JS) - A reliable, dependency-free Bitcoin RPC interface. - <a href="https://www.npmjs.com/package/@jskitty/bitcoin-rpc">NPM</a>
     <br>
-    <a href="https://github.com/JSKitty/checkpoint-rs">Checkpoint-rs</a> (RS) - A simple Bitcoin-based blockchain checkpointing program.
+    <a href="https://github.com/JSKitty/checkpoint-rs">Checkpoint-rs</a> (Rust) - A simple Bitcoin-based blockchain checkpointing program.
     <br>
     <a href="https://github.com/ZENZO-Ecosystem/zenzo-forge">ZENZO Forge</a> (JS) - A high-perf parallelised L2 designed for on-chain games.
     <br>
-    <a href="https://github.com/Concord-Ecosystem/Concord-Core">Concord</a> (JS) - A blockchain implementation inspired by <a href="https://github.com/conradoqg/naivecoin">Naivecoin</a>.
   </p>
 </p>
 
