@@ -14,7 +14,7 @@
 <h1 align="center">Portfolio</h1>
 
 <p align="center">
-  <h2 align="center">The Vector Ecosystem</h2>
+  <h2 align="center">Vector Ecosystem</h2>
   <p align="center">
     <b><a href="https://github.com/JSKitty/Vector">Vector</a></b> (Rust) - Private & Encrypted Messenger.
   </p>
