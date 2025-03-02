@@ -14,7 +14,14 @@
 <h1 align="center">Portfolio</h1>
 
 <p align="center">
-  <h3 align="center">⛓ Blockchain & Cryptocurrency ⛓</h3>
+  <h2 align="center">The Vector Ecosystem</h2>
+  <p align="center">
+    <b><a href="https://github.com/JSKitty/Vector">Vector</a></b> (Rust) - Private & Encrypted Messenger.
+  </p>
+
+  ---
+  
+  <h3 align="center">Blockchain & Cryptocurrency</h3>
   <p align="center">
     <a href="https://github.com/PIVX-Labs/PIVX-Promos">PIVX Promos</a> (JS) - A JS implementation of decentralised on-chain gift codes.
     <br>
@@ -38,7 +45,7 @@
 ---
 
 <p align="center">
-  <h3 align="center">🎮 Games & Game Engines 🎮</h3>
+  <h3 align="center">Games & Game Engines</h3>
   <p align="center">
     <a href="https://github.com/JSKitty/rusty-sandbox">Rusty Sandbox</a> (Rust) - A lightweight & customisable 2D Sandbox Engine. - <a href="https://stakecubecoin.net/wasm-sandbox/">Play</a>
     <br>
@@ -49,7 +56,7 @@
 ---
 
 <p align="center">
-  <h3 align="center">✨ Miscellaneous ✨</h3>
+  <h3 align="center">Miscellaneous</h3>
   <p align="center">
     <a href="https://github.com/JSKitty/wallpape.rs">Wallpape.rs</a> (Rust) - A simple, tiny GUI Wallpaper manager for Linux DEs.
   </p>
