@@ -16,7 +16,7 @@
 <p align="center">
   <h2 align="center">Vector Ecosystem</h2>
   <p align="center">
-    <b><a href="https://github.com/JSKitty/Vector">Vector</a></b> (Rust) - Private & Encrypted Messenger.
+    <b><a href="https://github.com/VectorPrivacy/Vector">Vector</a></b> (Rust) - Private & Encrypted Messenger.
   </p>
 
   ---
